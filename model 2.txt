@@ -1,0 +1,38 @@
+====== Model 2 ====== 
+
+# Receptor interface residue(s):
+ASP     92A     3.441
+HIS     93A     2.949
+CYS    124A     2.796
+LYS    125A     2.974
+ALA    126A     2.948
+GLY    127A     3.290
+LYS    128A     3.012
+GLY    129A     3.236
+ARG    130A     2.392
+THR    131A     4.516
+GLY    165A     4.982
+THR    167A     2.433
+ILE    168A     2.129
+GLN    171A     2.794
+LYS    330A     3.825
+ 
+# Ligand interface residue(s):
+I3P      1d     2.129
+ 
+# Receptor-ligand interface residue pair(s):
+92A  -  1d     3.441
+93A  -  1d     2.949
+124A  -  1d     2.796
+125A  -  1d     2.974
+126A  -  1d     2.948
+127A  -  1d     3.290
+128A  -  1d     3.012
+129A  -  1d     3.236
+130A  -  1d     2.392
+131A  -  1d     4.516
+165A  -  1d     4.982
+167A  -  1d     2.433
+168A  -  1d     2.129
+171A  -  1d     2.794
+330A  -  1d     3.825
